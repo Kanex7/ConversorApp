@@ -7,6 +7,9 @@ ConversorApp es un software que facilita la conversión de monedas entre 3 divis
 * Dólar Estadounidense
 * Peso Chileno
 
+## Screenshot 
+![Screenshot](https://github.com/user-attachments/assets/04109765-ed55-4f77-9d8b-12501dbbb153)
+
 ## Herramientas Utilizadas
 * Java
 * API utilizada: EchangeRate-API  [https://app.exchangerate-api.com/] 
